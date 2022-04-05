@@ -1,0 +1,23 @@
+{
+	"name": "SerialToPlot",
+	"version": "1.0.0",
+	"description": "Easy way to send serial data to the Arduino Plotter",
+	"keywords": "plot, serial, graph",
+	"repository":
+	{
+	  "type": "git",
+	  "url": ""
+	},
+	"authors":
+	[
+	  {
+		"name": "Carlos Arena",
+		"email": "carlostata.ca@gmail.com"
+	  }
+	],
+	"license": "MIT",
+	"dependencies": {
+	},
+	"frameworks": "arduino",
+	"platforms": "*"
+  }
