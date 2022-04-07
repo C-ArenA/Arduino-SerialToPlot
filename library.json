@@ -1,6 +1,6 @@
 {
 	"name": "SerialToPlot",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Easy way to send serial data to the Arduino Plotter",
 	"keywords": "plot, serial, graph",
 	"repository":
@@ -12,7 +12,13 @@
 	[
 	  {
 		"name": "Carlos Arena",
-		"email": "carlostata.ca@gmail.com"
+		"email": "carlostata.ca@gmail.com",
+		"mantainer": true
+	  },
+	  {
+		"name": "VReality",
+		"email": "info@vrealitybolivia.com",
+		"url": "https://vrealitybolivia.com"
 	  }
 	],
 	"license": "MIT",

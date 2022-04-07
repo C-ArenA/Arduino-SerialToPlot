@@ -1,3 +1,9 @@
+/*
+	Helps you plot data in the Arduino Plotter
+	By Carlos Arena (arenamovediza)
+	By VReality (https://vrealitybolivia.com)
+*/
+
 #pragma once
 #include <Arduino.h>
 
